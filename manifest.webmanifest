@@ -1,0 +1,9 @@
+{
+  "name": "Discursos Públicos Preparados",
+  "short_name": "Discursos",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#17365d",
+  "icons": []
+}
